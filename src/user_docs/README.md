@@ -1,0 +1,1 @@
+Add your pdfs to this directory. So they can be parsed correctly with relevant libraries.
